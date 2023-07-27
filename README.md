@@ -32,6 +32,9 @@ The burn function allows token holders to permanently remove their tokens from c
 
 The transfer function enables token holders to send their DGen Tokens to other addresses. This function is a core feature of ERC-20 tokens, allowing users to perform peer-to-peer transactions.
 
+## Reedem Function
+Players should be able to redeem their tokens for items in the in-game store.
+
 ## Conclusion
 
 Thank you for your interest in DGen Token! If you have any questions or need further assistance, feel free to reach out to the project maintainers or consult the official documentation. Happy minting, burning, and transferring!
